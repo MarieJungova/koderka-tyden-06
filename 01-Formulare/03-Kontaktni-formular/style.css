@@ -9,3 +9,44 @@ body {
 
 /* ------------------------- */
 
+.nadpis{
+	font-size: 25px;
+	color: dodgerblue;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+.horizontal input,
+.horizontal select,
+.horizontal textarea{
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 10px;
+	border: 1px solid gray;
+	border-radius: 4px;
+	
+}
+
+form{
+	width: 400px;
+	max-width: 100%;
+}
+
+.horizontal label{
+	display: block;
+	color: gray;
+} 
+
+.form-checkbox {
+	margin-bottom: 10px;
+}
+
+
+.tlacitko{
+	display: block;
+	color: white;
+	background-color: dodgerblue;
+	padding: 10px 15px;
+	border: 0;
+	border-radius: 4px;
+}
